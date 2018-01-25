@@ -34,4 +34,4 @@ async def commands(ctx):
 	await bot.say('!dog\n!bark')
 
 
-bot.run("NDA1ODYwMDI2OTAxNzI1MTg0.DUqktA.dazUSvu1qxJ6THe-1_SWbd-2Btk")
+bot.run("KEY")
