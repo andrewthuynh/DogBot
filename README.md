@@ -6,3 +6,5 @@ A simple Discord Bot with all things dog-related.
 - !dog
 
 ## Much more to come soon!
+
+#### Pictures from Pexels
