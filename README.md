@@ -1,8 +1,8 @@
 # DogBot
 A simple Discord Bot with all things dog-related.
 
-#Commands:
+## Commands:
 - !bark
 - !dog
 
-#Much more to come soon!
+## Much more to come soon!
